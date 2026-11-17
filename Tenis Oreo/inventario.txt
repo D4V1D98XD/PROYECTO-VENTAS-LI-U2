@@ -1,0 +1,7 @@
+TNS1
+NIK-001;Nike Air Max;1899.99;15
+ADI-002;Adidas Superstar;1599.50;12
+PUM-003;Puma RS-X;1799.00;10
+CON-004;Converse Chuck Taylor;1199.99;20
+NBW-005;New Balance 574;2199.50;8
+GAY-123;DandIII;6767.00;67

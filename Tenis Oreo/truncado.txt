@@ -1,0 +1,3 @@
+TNS1
+NIK-001;Nike Air Max;1899.99;15
+ADI-002;Adidas Super
