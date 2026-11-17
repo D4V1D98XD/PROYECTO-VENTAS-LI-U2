@@ -1,5 +1,5 @@
 ; ==========================================================================
-; TENNIS STORE (TENIS OREO) - Sistema de Ventas e Inventario
+; (TENIS OREO) - Sistema de Ventas e Inventario
 ; Lenguajes de Interfaz - Unidad 3, SEGUNDA ETAPA (refactorizacion)
 ; MASM x86 (32 bits) + Irvine32
 ; Equipo: Leonardo David Garcia Leyva
